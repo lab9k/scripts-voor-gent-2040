@@ -4,6 +4,7 @@
   </div>
   <div class="clear"></div>
   <ul>
+  
     {% for p in site.pages %}
       {% if p.layout == "chapter" %}
         <a href= {{ p.url | prepend:site.baseurl }} >
@@ -20,5 +21,12 @@
         </li></a>
       {% endif %}
     {% endfor %}
+    <li>
+      <div class="col-sm-3" style="float:none">
+        <a href="https://lab9k.gent/scripts-voor-gent-2040-en/">
+          <img class="img-responsive" src="{{ "/images/uk.png" | prepend:site.baseurl }}" alt="uk flag lang selection">
+        </a>
+      </div>
+    </li>
   </ul>
 </div>
