@@ -38,3 +38,7 @@ Contact: [foresight@digipolis.gent](foresight@digipolis.gent) en [@ForesightGent
 
 Johan Van der Bauwhede, directeur Digipolis Gent
 “Attribution Licence CC BY 2.0 BE” [Creative Commons](https://creativecommons.org/licenses/by/2.0/be/deed.en)
+
+**Website thema:**
+
+Gebaseerd op het boek [Beyond Transparency](http://beyondtransparency.org) door [Code For America](https://github.com/codeforamerica/beyondtransparency)
